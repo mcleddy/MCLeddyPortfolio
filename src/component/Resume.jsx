@@ -177,7 +177,7 @@ export default class Resume extends Component {
                   <header>
                     <h3>Profesional Website for PhD Candidate</h3>
                   </header>
-                  <div>This is a site created as a resource and useful tool for those working in academia. It allows visitors to navigate though the person's research and CV so that they can connect with other professionals and provide information to their students.   </div>
+                  <div>This is a site created as a resource and useful tool for those working in academia. It allows visitors to navigate though the person's research and CV so that they can connect with other professionals and provide information to their students.  </div>
                 </div>
               </section>
               <section className="blocks">
